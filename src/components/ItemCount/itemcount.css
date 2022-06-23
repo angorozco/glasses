@@ -1,0 +1,25 @@
+.countStyle {
+    padding: 0 1.3rem;
+    color: #2B3B47;
+    font-size: 1.7rem;
+}
+
+.buttonCount {
+    background-color: #C46631;
+    color: white;
+    font-size: 1.7rem;
+    border: none;
+    width: 45px;
+    border-radius: .6rem;
+    cursor: pointer;
+}
+
+.buttonAdd {
+    background-color: #2B3B47;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+    margin-top: 1.3rem;
+    padding: .6rem 1.3rem;
+    cursor: pointer;
+}
