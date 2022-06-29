@@ -1,0 +1,21 @@
+.style1 {
+    background-color: coral;
+    padding: .7rem 1.5rem;
+    border-radius: 1rem;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    letter-spacing: .1rem;
+    cursor: pointer;
+}
+
+.style2 {
+    background-color: rgb(4, 80, 4);
+    padding: .7rem 1.5rem;
+    border-radius: 1rem;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    letter-spacing: .1rem;
+    cursor: pointer;
+}
