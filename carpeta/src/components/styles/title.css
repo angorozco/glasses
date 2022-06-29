@@ -1,0 +1,8 @@
+.title-styles {
+    color: coral;
+}
+
+.title-styles span {
+    color: rgb(219, 90, 43);
+    text-transform: uppercase;
+}
